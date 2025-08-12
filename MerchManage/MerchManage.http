@@ -1,0 +1,6 @@
+@MerchManage_HostAddress = http://localhost:5265
+
+GET {{MerchManage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
